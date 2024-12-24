@@ -1,5 +1,4 @@
 # flowmanager
 Allows you to quickly open flows in edit mode and view flow runs
 
-![image](https://github.com/user-attachments/assets/458a50d5-04d7-441c-8d28-ac2c2d2f1187)
-
+![flow monitor](https://github.com/user-attachments/assets/d89cf624-09d0-4d26-8345-2a3ae27e653a)
